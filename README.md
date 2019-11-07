@@ -1,6 +1,7 @@
 # ESNItool
 Simple tool to extract and print ESNI (TXT) records for hostname.
 
+```
 $ ./esni_tool tls13.1d.pw.
 
 ESNI tool
@@ -25,3 +26,4 @@ ESNI for tls13.1d.pw.:
 	Cipher:		0x1301
 	Not-Before:	2019-03-20 00:00:03 +0000 UTC
 	Not-After:	2021-01-06 00:00:01 +0000 UTC
+```
