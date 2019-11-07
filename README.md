@@ -27,3 +27,5 @@ ESNI for tls13.1d.pw.:
 	Not-Before:	2019-03-20 00:00:03 +0000 UTC
 	Not-After:	2021-01-06 00:00:01 +0000 UTC
 ```
+# DNS
+Uses github.com/miekg/dns for DNS.
